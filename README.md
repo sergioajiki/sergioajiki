@@ -16,7 +16,7 @@ Atualmente estou em transição de carreira e estudando desenvolvimento web na T
 
 <h2 dir="auto"></h2> 
 <h3>Contato</h3>
-<a href="https://www.linkedin.com/in/sergioajiki/" target="_blank">
+<a href="https://www.linkedin.com/in/sergioajiki/" target="_blank" rel="noopener noreferrer">
 <img src=https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white />
 </a>  
 <!--
