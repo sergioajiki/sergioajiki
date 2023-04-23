@@ -16,9 +16,14 @@ Atualmente estou em transição de carreira e estudando desenvolvimento web na T
 
 <h2 dir="auto"></h2> 
 <h3>Contato</h3>
+<div>
+<a href="mailto:sergio.ajiki@gmail.com" target="_blank" rel="noopener noreferrer">
+<img src=https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white />
+</a>
 <a href="https://www.linkedin.com/in/sergioajiki/" target="_blank" rel="noopener noreferrer">
 <img src=https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white />
 </a>  
+<div>  
 <!--
 **sergioajiki/sergioajiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
