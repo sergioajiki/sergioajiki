@@ -19,10 +19,12 @@ Atualmente estou em transição de carreira e estudando desenvolvimento web na T
 </div>
 <h2 dir="auto"></h2>
 <h3 dir="auto">Aprendendo atualmente</h3>
+<div>
 <!-- <img src=https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white /> -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="60px" width="60px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60px" width="60px"/>         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="60px" width="60px"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60px" width="60px" />         
 <!-- <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> -->
+</div>
 <h2 dir="auto"></h2> 
 <h3>Contato</h3>
 <div>
@@ -30,7 +32,7 @@ Atualmente estou em transição de carreira e estudando desenvolvimento web na T
 <img src=https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white />
 </a>
 <a href="https://www.linkedin.com/in/sergioajiki/" target="_blank" rel="noopener noreferrer">
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="60px" width="60px"/> -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" height="60px" width="60px" /> -->
 <img src=https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white />
 </a>  
 </div>  
