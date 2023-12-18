@@ -15,17 +15,12 @@ Atualmente estou em transição de carreira e estudando desenvolvimento web na T
 <img src=https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black />
 <img src=https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black />
 <img src=https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white /> -->
-  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="60px" width="60px"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60px" width="60px" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="60px" width="60px"/>
+          
 </div>
 <h2 dir="auto"></h2>
-<h3 dir="auto">Aprendendo atualmente</h3>
-<div>
-<!-- <img src=https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white /> -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="60px" width="60px"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60px" width="60px" />         
-<!-- <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> -->
-</div>
-<h2 dir="auto"></h2> 
 <h3>Contato</h3>
 <div>
 <a href="mailto:sergio.ajiki@gmail.com" target="_blank" rel="noopener noreferrer">
