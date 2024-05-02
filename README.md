@@ -1,6 +1,5 @@
 Olá, meu nome é <b><i>Sergio Ajiki </i></b>, moro em Campo Grande - Mato Grosso do Sul - Brasil.
 
-Atualmente estou em transição de carreira e estudando desenvolvimento web na Trybe.
 <h2 dir="auto"></h2>
 <h3>Linguagens e ferramentas</h3>
 <div>
